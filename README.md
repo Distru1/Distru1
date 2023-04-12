@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Distru1
-- 👀 I’m interested in learning Data Analysis (for now!)
-- 🌱 I’m currently learning how to use Numpy, Pandas and matplotlib
+- 🌱 I’m currently learning Blockchain Development, I have completed a course from AlgoExpert called Blockchain Expert.
 - 📫 How to reach me: acvilamontes@gmail.com 
 
 <!---
